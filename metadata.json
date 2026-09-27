@@ -1,0 +1,7 @@
+{
+  "name": "HR Migration Data Quality Copilot",
+  "description": "AI-powered validation, reconciliation and migration readiness for HRIS data migrations (PeopleSoft to Workday).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
